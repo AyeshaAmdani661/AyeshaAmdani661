@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![MasterHead](https://www.viar360.com/wp-content/uploads/2017/06/corporate-learning-1024x373.jpg)
 <h1 align="center">Hi 👋, I'm Ayesha Amdani</h1>
-<h3 align="center">I am learning Web and Mobile Application Development from SMIT</h3>
+<h3 align="center">I am a Frontend Developer</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshaamdani661&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshaamdani661" /> </p>
